@@ -1,0 +1,1 @@
+ Speed Control component shall interface with the vehicle's CAN bus to communicate with other vehicle systems, including sensors and actuators.
